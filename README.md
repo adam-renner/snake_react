@@ -1,3 +1,16 @@
+# WORK IN PROGRESS
+
+Purpose of this project is to learn React
+
+Todo:
+- Finish porting over python snake game elements
+- Review React standards, see if anything is missing
+- Test/troubleshoot/etc
+- Decide on hosting?
+
+
+
+-----------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
