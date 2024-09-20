@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 
-Purpose of this project is to learn React
+Purpose of this project is to learn React and brush up on javascript
 
 Todo:
 - Finish porting over python snake game elements
