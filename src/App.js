@@ -1,9 +1,11 @@
-import './App.css';
+import React from "react";
+import { Game } from "./Components/Game";
 
 function App() {
   return (
-    <div>
-      <h1>hello future lizards</h1>
+    <div className="App">
+      <h1>My Game</h1>
+      <Game />
     </div>
   );
 }
